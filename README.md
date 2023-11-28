@@ -1,4 +1,7 @@
 # Automatic-Translator
+
 da
 <br>
-Sunt de Acord
+Sunt de Acorda
+<br>
+Iustin e gay
